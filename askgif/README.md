@@ -1,2 +1,2 @@
-# loyalty_v2
+# mydata
 
