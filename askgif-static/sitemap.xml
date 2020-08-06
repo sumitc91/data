@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>http://localhost:5000/sitemap/sitemap-gif-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:5000/sitemap/sitemap-gif-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:5000/sitemap/sitemap-gif-3.xml</loc>
+  </sitemap>
+</sitemapindex>
